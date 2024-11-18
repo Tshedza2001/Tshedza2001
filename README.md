@@ -1,25 +1,30 @@
-Hi, I'm Tshedza Ramabulana, a passionate and detail-oriented Computer Scientist specializing in full-stack development and secure web applications. My projects focus on integrating modern web technologies, enhancing user experiences, and ensuring robust application security.
+# Hi, I'm Tshedza Ramabulana 👋
 
-🌟 What I Do:
-Build scalable web applications using React, Node.js, and MUI.
-Work with APIs to integrate data-driven features into dynamic systems.
-Leverage Docker and Nginx for containerized application deployment.
-Focus on security-first principles, including SSL implementation, input validation, and DevOps practices.
-Develop dynamic, data-driven solutions with a focus on performance and user experience.
+I am a passionate and detail-oriented Computer Scientist specializing in full-stack development and secure web applications. My projects focus on integrating modern web technologies, enhancing user experiences, and ensuring robust application security.
 
-📌 Current Projects:
-Developing a bus revenue tracking system for The Naked Scientists (TNS), streamlining financial operations and generating detailed reports.
-Building a secure customer portal with features like user authentication, data management, and encryption.
-💡 Tech Stack:
+### 🌟 What I Do:
+- Build scalable web applications using **React**, **Node.js**, and **MUI**.
+- Work with APIs to integrate data-driven features into dynamic systems.
+- Leverage **Docker** and **Nginx** for containerized application deployment.
+- Focus on security-first principles, including **SSL implementation** and **input validation**.
 
-Frontend: React, HTML, CSS, MUI, JavaScript
-Backend: Node.js, Express, C#, PHP
-Mobile Development: Flutter, Dart
-Tools: Docker, Git, Nginx, CircleCI, PowerShell
-Databases: MySQL, MongoDB, Oracle
-Other Skills: RESTful APIs, debugging and testing, SDLC methodologies (Scrum, Agile)
+### 📌 What I am Currently Working On 💻:
+**Personal Projects**:
+- Developing a bus revenue tracking system for **The Naked Scientists (TNS)** to streamline financial operations.
+- Working on a secure **Customer Portal** with features like authentication and data encryption.
 
-🌱 Learning:
-Advanced deployment techniques, cloud infrastructure, and DevSecOps pipelines.
+**Learning**:
+- Exploring advanced deployment techniques and cloud infrastructure.
+- Building on DevSecOps pipelines for continuous integration and security.
 
-📫 Let's Connect: Feel free to explore my repositories, provide feedback, or connect for collaborations!
+### 💡 Tech Stack:
+- **Frontend**: React, HTML, CSS, MUI, JavaScript
+- **Backend**: Node.js, Express, C#
+- **Tools**: Docker, Git, Nginx, CircleCI, PowerShell
+- **Databases**: MySQL, MongoDB, Oracle
+
+### 📫 Let's Connect:
+- **GitHub**: [Tshedza2001](https://github.com/Tshedza2001)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/tshedza-ramabulana-3a9461217/)
+- Feel free to explore my repositories, provide feedback, or connect for collaborations!
+
