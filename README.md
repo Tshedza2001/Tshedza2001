@@ -24,7 +24,7 @@ I am a passionate and detail-oriented Computer Scientist specializing in full-st
 - **Databases**: MySQL, MongoDB, Oracle
 
 ### 📫 Let's Connect:
-- **GitHub**: [Tshedza2001](https://github.com/Tshedza2001)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/tshedza-ramabulana-3a9461217/)
+- **GitHub**: [My GitHub](https://github.com/TshedzaRamabulana)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/tshedza-ramabulana-3a9461217/)
 - Feel free to explore my repositories, provide feedback, or connect for collaborations!
 
